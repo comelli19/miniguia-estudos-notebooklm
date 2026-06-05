@@ -59,3 +59,5 @@ Prompts Reutilizáveis para Revisão
 Esse repositório foi criado em resposta ao Desafio de Projeto da DIO.
 
 Este README utiliza a sua documentação do EventFlow e C4 Model como base, pois demonstra alta maturidade e complexidade técnica para o mercado. Quer que eu ajuste o README para focar em outro tema, como a legislação tributária brasileira e cálculos de ICMS para sistemas de TI?
+
+link: https://notebooklm.google.com/notebook/537999e1-5170-4513-ba3a-b477e6343822
